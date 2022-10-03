@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio-2022/static/css/main.b171c7a7.css",
-    "main.js": "/portfolio-2022/static/js/main.67b37cc8.js",
-    "static/media/tinterest.png": "/portfolio-2022/static/media/tinterest.39a04a28ca802fff721b.png",
-    "static/media/major.png": "/portfolio-2022/static/media/major.efedea7f76669b7e4541.png",
-    "static/media/IREM-profil-portrait.jpg": "/portfolio-2022/static/media/IREM-profil-portrait.295b8ba509fafccaaea4.jpg",
-    "static/media/casecount.png": "/portfolio-2022/static/media/casecount.363fa13fefc7a8ecadb7.png",
-    "static/media/simon.png": "/portfolio-2022/static/media/simon.4c9977fb24af648b813a.png",
-    "static/media/IremHarnak-FrontEndResume2022.pdf": "/portfolio-2022/static/media/IremHarnak-FrontEndResume2022.468d29e07075640ed26c.pdf",
-    "index.html": "/portfolio-2022/index.html",
-    "main.b171c7a7.css.map": "/portfolio-2022/static/css/main.b171c7a7.css.map",
-    "main.67b37cc8.js.map": "/portfolio-2022/static/js/main.67b37cc8.js.map"
+    "main.css": "/static/css/main.b171c7a7.css",
+    "main.js": "/static/js/main.c4284638.js",
+    "static/media/tinterest.png": "/static/media/tinterest.39a04a28ca802fff721b.png",
+    "static/media/major.png": "/static/media/major.efedea7f76669b7e4541.png",
+    "static/media/IREM-profil-portrait.jpg": "/static/media/IREM-profil-portrait.295b8ba509fafccaaea4.jpg",
+    "static/media/casecount.png": "/static/media/casecount.363fa13fefc7a8ecadb7.png",
+    "static/media/simon.png": "/static/media/simon.4c9977fb24af648b813a.png",
+    "static/media/IremHarnak-FrontEndResume2022.pdf": "/static/media/IremHarnak-FrontEndResume2022.468d29e07075640ed26c.pdf",
+    "index.html": "/index.html",
+    "main.b171c7a7.css.map": "/static/css/main.b171c7a7.css.map",
+    "main.c4284638.js.map": "/static/js/main.c4284638.js.map"
   },
   "entrypoints": [
     "static/css/main.b171c7a7.css",
-    "static/js/main.67b37cc8.js"
+    "static/js/main.c4284638.js"
   ]
 }

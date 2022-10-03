@@ -1,0 +1,31 @@
+span {
+  color: #ED1C24;
+}
+.hero {
+  height: 45vh;
+  width: 100%;
+  position: relative;
+  background-color: #0B0B0B;
+  color: #f8f8f8;
+}
+.hero .content {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* max-width: 1100px; */
+  padding: 1rem;
+  font-size: 32px;
+  margin: 0 auto;
+}
+.hero-text  {
+  max-width: 1240px;
+
+  margin: 0 auto;
+}
+@media screen and (max-width: 940px) {
+  .hero .content {
+    font-size: 24px;
+  }
+}

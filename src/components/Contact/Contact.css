@@ -1,0 +1,44 @@
+.contact {
+  background-color: #18181b;
+  color: #f8f8f8;
+  margin: auto;
+  padding: 4rem 1rem 10rem 1rem;
+  width: 100%;
+}
+
+.container {
+  max-width: 1240px;
+  margin: 0 auto;
+}
+
+.section-title.contact {
+  text-align: center;
+  margin: 0 auto;
+  /* color: red; */
+  font-size: 40px;
+  padding: 0;
+  /* padding-bottom: 3rem; */
+}
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  gap: 24px;
+}
+form div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
+  margin: 0 auto;
+  width: 100%;
+  gap: 8px;
+}
+form input {
+  padding: 8px;
+}
+#message {
+  padding: 8px 8px 200px 8px;
+}

@@ -17,7 +17,7 @@ const Work = () => {
               <img src={major} alt="" />
             </div>
             <div className="overlay overlay-blur">
-              <h3>E-commerce App</h3>
+              <h3>Major - E-commerce App</h3>
               <p>HTML, CSS, Express, MongoDB, Mongoose, OAuth, NodeJS, Figma</p>
               <div className="overlay-buttons">
                 <a
@@ -44,7 +44,7 @@ const Work = () => {
               <img src={casecount} alt="" />
             </div>
             <div className="overlay overlay-blur">
-              <h3>Customize your product</h3>
+              <h3>Casecount - Customize your phone case</h3>
               <p>
                 React, Express, MongoDB, JWT, NodeJS, CSS, React-Bootstrap,
                 Stripe, Figma
@@ -74,7 +74,7 @@ const Work = () => {
               <img src={simon} alt="" />
             </div>
             <div className="overlay overlay-blur">
-              <h3>Browser based game</h3>
+              <h3>Simon - Browser based game</h3>
               <p>HTML, CSS, JavaScript, Figma</p>
               <div className="overlay-buttons">
               <a
@@ -101,7 +101,7 @@ const Work = () => {
               <img src={tinterest} alt="" />
             </div>
             <div className="overlay overlay-blur">
-              <h3>Social App</h3>
+              <h3>Tinterest - Social App</h3>
               <p>
                 Python,Django, PostgreSQL, RESTful APIs, Amazon S3, JavaScript,
                 CSS, Materialize, HTML, Figma
